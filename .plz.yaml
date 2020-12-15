@@ -1,0 +1,6 @@
+commands:
+  - id: foo
+    cmd: ls -al
+#    cmds: 
+#      - echo hello; sleep 3; echo foo; exit 1; echo bar
+#      - echo second command
